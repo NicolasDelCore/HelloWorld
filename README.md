@@ -1,2 +1,2 @@
 # HelloWorld
-Simply a HelloWorld repository.
+An edited HelloWorld repository.
